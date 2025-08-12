@@ -1,4 +1,4 @@
-
+Link data: https://8weeksqlchallenge.com/case-study-5/
 I.  Introduction 
 1. Overview of the Case Study
 Data Mart is a multi-platform supermarket chain that operates through both traditional physical stores and an online platform (Shopify). This case study focuses on analyzing consumer purchasing behavior and identifying how a shift to sustainable packaging (implemented from June 15, 2020) impacted sales performance. Through structured SQL-based exploration, we aim to uncover trends, seasonality, and behavioral shifts in customer data.
