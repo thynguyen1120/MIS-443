@@ -87,5 +87,5 @@ MIS443_Group2_CaseStudy5/
 4. Review output and match with insights in final report.
 
 
-## 10. License
+## 9. License
 For educational use in MIS 443, Eastern International University.
