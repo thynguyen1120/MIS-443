@@ -86,11 +86,6 @@ MIS443_Group2_CaseStudy5/
 3. Run scripts in `sql/datamart_cleaning_and_analysis.sql`.
 4. Review output and match with insights in final report.
 
-## 9. Team Members
-- Nguyễn Quang Trường – 2132309001  
-- Nguyễn Trần Ngọc Thy – 2232300307  
-- Huỳnh Thuỵ Bảo Trâm – 2132300228  
-- Huỳnh Trung Hậu – 2132309003
 
 ## 10. License
 For educational use in MIS 443, Eastern International University.
