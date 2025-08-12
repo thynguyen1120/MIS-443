@@ -1,4 +1,4 @@
-# MIS443_Group2_CaseStudy5 – Data Mart
+# CaseStudy5 – Data Mart
 
 ## 1. Project Objective
 This project analyzes **Data Mart** weekly sales data to:
