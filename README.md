@@ -62,22 +62,8 @@ This project analyzes **Data Mart** weekly sales data to:
 3. **Expand Shopify presence** to diversify sales channels.
 4. **Communicate operational changes** effectively to minimize sales disruption.
 
-## 7. Repository Structure
-```
-MIS443_Group2_CaseStudy5/
-│
-├── sql/
-│   ├── datamart_cleaning_and_analysis.sql   # All SQL queries
-│
-├── report/
-│   ├── MIS443_Final_Report.pdf               # Final report with insights
-│
-├── images/                                   # Visualizations, charts (optional)
-│
-└── README.md
-```
 
-## 8. How to Run (PostgreSQL)
+## 7. How to Run (PostgreSQL)
 1. Create database:  
    ```sql
    CREATE DATABASE mis443_datamart;
@@ -87,5 +73,5 @@ MIS443_Group2_CaseStudy5/
 4. Review output and match with insights in final report.
 
 
-## 9. License
+## 8. License
 For educational use in MIS 443, Eastern International University.
