@@ -69,7 +69,7 @@ This project analyzes **Data Mart** weekly sales data to:
    CREATE DATABASE mis443_datamart;
    ```
 2. Import raw dataset into `data_mart.weekly_sales` table.
-3. Run scripts in `sql/datamart_cleaning_and_analysis.sql`.
+3. Run scripts in `sql/datamart.sql`.
 4. Review output and match with insights in final report.
 
 
